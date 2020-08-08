@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://pradhyumna:aryan@2017@devconnector.paom6.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "secret-token",
-  "githubClientId": "3991adc7f9ab6fc1e8f4",
-  "githubSecret": "f7092cee71bac3fb7d2c53f43f5faf76a2a90da3"
+  "mongoURI": "mongodb",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
 }
